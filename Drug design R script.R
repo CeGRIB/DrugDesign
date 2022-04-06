@@ -1,8 +1,8 @@
 #Title: Molecular docking, simulation and binding free energy analysis
 #of small molecules as PfHT1 inhibitors
 
-#Authors: Afolabi Owoloye, Funmilayo C. Ligali Ojochenemi A. Enejoh,
-#Emmanuel T. Idowu1 and Kolapo M. Oyebola2,3
+#Authors: Afolabi J. Owoloye, Funmilayo C. Ligali, Ojochenemi A. Enejoh, Adesola Z. Musa, Oluwagbemiga O. Aina,
+          #Emmanuel T. Idowu, Babatunde L. Salako, and Kolapo M. Oyebola,
 
 #Quality Control Script
 
