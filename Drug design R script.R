@@ -2,7 +2,7 @@
 #of small molecules as PfHT1 inhibitors
 
 #Authors: Afolabi J. Owoloye, Funmilayo C. Ligali, Ojochenemi A. Enejoh, Adesola Z. Musa, Oluwagbemiga O. Aina,
-          #Emmanuel T. Idowu, Babatunde L. Salako, and Kolapo M. Oyebola,
+          #Emmanuel T. Idowu, and Kolapo M. Oyebola,
 
 #Quality Control Script
 
